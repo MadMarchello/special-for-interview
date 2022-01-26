@@ -6,3 +6,4 @@ The technologies I use:
 - React.js
 - React Native (expo)
 - SCSS for web
+- Redux
