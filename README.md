@@ -5,4 +5,4 @@ These are listings from my projects that I found quite interesting to show them 
 The technologies I use:
 - React.js
 - React Native (expo)
-- SCSS
+- SCSS for web
