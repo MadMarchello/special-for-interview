@@ -11,8 +11,4 @@ export default class AuthServices {
     static async registration(email, password) {
         return $api.post('/api/v1/auth/sign-up', { email, password });
     }
-
-    /*static async logout() {
-        return $api.post('/logout');
-    }*/
 }
